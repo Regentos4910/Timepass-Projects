@@ -186,3 +186,5 @@ public class SnakeGame extends JPanel implements ActionListener {
         frame.setVisible(true);
     }
 }
+
+// Made By Thy Regentos
